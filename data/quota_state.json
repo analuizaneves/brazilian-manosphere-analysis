@@ -1,0 +1,1553 @@
+{
+  "date": "2026-06-18",
+  "used": 8141,
+  "log": [
+    {
+      "ts": "2026-06-18T20:14:28",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='O que é Red Pill?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:29",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='O que significa VSM?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:30",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='O que é Valor Sexual de Mercado?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:30",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='O que significa Hipergamia?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:31",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Homem Alfa vs Homem Beta'"
+    },
+    {
+      "ts": "2026-06-18T20:14:31",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Mulher 304, o que significa?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:32",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='O que é Monkey Branching?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:33",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='A teoria 80/20 na Redpill'"
+    },
+    {
+      "ts": "2026-06-18T20:14:33",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Chad vs Beta: diferenças'"
+    },
+    {
+      "ts": "2026-06-18T20:14:35",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='O que significa \"Femimimi\"?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:35",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Polo Masculino e Polo Feminino: qual a diferença?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:36",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Como aumentar o VSM?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:36",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='A verdade sobre a hipergamia feminina'"
+    },
+    {
+      "ts": "2026-06-18T20:14:37",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Por que o homem deve ser Alfa?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:37",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Como aumentar meu valor sexual de mercado?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:38",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Qual a mulher ideal para um homem de valor?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:39",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Como ser um homem de valor?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:39",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Quando as mulheres chegam na The Wall, o que fazer?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:40",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Como encontrar uma mulher ideal?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:40",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Incel vs Red Pill'"
+    },
+    {
+      "ts": "2026-06-18T20:14:41",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Feminista vs Red Pill'"
+    },
+    {
+      "ts": "2026-06-18T20:14:41",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Por que o feminismo é ruim?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:42",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Como ser um bom Red Pill?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:43",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Como encontrar a verdade da Red Pill?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:43",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='O que é a machosfera?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:44",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Quem faz parte da manosfera?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:44",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='O que é uma mulh3re 304?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:44",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='O que significa miqueinha na Redpill?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:45",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='O que é uma bostileira?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:45",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='A coomecracia existe mesmo?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:46",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='O que é coomer?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:46",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Looksmaxxing funciona?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:47",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Qual o papel do homem na sociedade Redpill?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:47",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='AWALT: todas as mulheres são iguais?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:48",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Por que o homem moderno sofre?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:48",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Existe solução para o homem Beta?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:49",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Como escapar da coomecracia?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:49",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='A verdade por trás da The Wall'"
+    },
+    {
+      "ts": "2026-06-18T20:14:50",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Por que ser um Alfa Sigma é importante?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:50",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Blackpill vs Redpill: diferenças'"
+    },
+    {
+      "ts": "2026-06-18T20:14:51",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Como funciona o SMV masculino?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:51",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Por que as mulheres preferem o 20% dos homens?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:52",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Qual a crítica da Redpill ao feminismo?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:52",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='Como atingir o auge do valor masculino?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:53",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='como usar bem a mask pill'"
+    },
+    {
+      "ts": "2026-06-18T20:14:54",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='ser alfa'"
+    },
+    {
+      "ts": "2026-06-18T20:14:54",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='sou beta?'"
+    },
+    {
+      "ts": "2026-06-18T20:14:55",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='como virar alfa'"
+    },
+    {
+      "ts": "2026-06-18T20:14:56",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='o que é vsm'"
+    },
+    {
+      "ts": "2026-06-18T20:14:56",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='mulher na wall'"
+    },
+    {
+      "ts": "2026-06-18T20:14:57",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='valor masculino'"
+    },
+    {
+      "ts": "2026-06-18T20:14:57",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='como virar chad'"
+    },
+    {
+      "ts": "2026-06-18T20:14:58",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='qual é meu valor no mercado sexual'"
+    },
+    {
+      "ts": "2026-06-18T20:14:59",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='diferença entre chad e beta'"
+    },
+    {
+      "ts": "2026-06-18T20:14:59",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='hipergamia é real?'"
+    },
+    {
+      "ts": "2026-06-18T20:15:00",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='todas as mulheres são iguais?'"
+    },
+    {
+      "ts": "2026-06-18T20:15:01",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='como funciona a redpill'"
+    },
+    {
+      "ts": "2026-06-18T20:15:01",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='como ser redpillado'"
+    },
+    {
+      "ts": "2026-06-18T20:15:02",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='o que é o movimento redpill'"
+    },
+    {
+      "ts": "2026-06-18T20:15:02",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='o que significa 304?'"
+    },
+    {
+      "ts": "2026-06-18T20:15:03",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='o que é coomecracia?'"
+    },
+    {
+      "ts": "2026-06-18T20:15:03",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='por que os homens sofrem?'"
+    },
+    {
+      "ts": "2026-06-18T20:15:04",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='como escapar da matrix?'"
+    },
+    {
+      "ts": "2026-06-18T20:15:04",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='como pensar como redpill'"
+    },
+    {
+      "ts": "2026-06-18T20:15:05",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='me tornei redpill'"
+    },
+    {
+      "ts": "2026-06-18T20:15:05",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "query='por que devemos usar mask pill'"
+    },
+    {
+      "ts": "2026-06-18T20:15:45",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:46",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:46",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:46",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:47",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:47",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:48",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:48",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:49",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:49",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:50",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:50",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:50",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:51",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:51",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:52",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:52",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:53",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:54",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:54",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:55",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:55",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:56",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:56",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:56",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:57",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:58",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:58",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:59",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:15:59",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:00",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:00",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:01",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:01",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:02",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:02",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:03",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:03",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:04",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:05",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:06",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:06",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:07",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:07",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:08",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:09",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:09",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:10",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:10",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:11",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:16:11",
+      "call_type": "videos.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "47 ids"
+    },
+    {
+      "ts": "2026-06-18T20:18:51",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:18:52",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:18:52",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:18:52",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:18:53",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:18:53",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:18:53",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:18:53",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:18:54",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:18:54",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:18:54",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:18:54",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:18:55",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:18:55",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T20:18:55",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "39 ids"
+    },
+    {
+      "ts": "2026-06-18T21:09:26",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:09:26",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:09:26",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:09:26",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:09:26",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:09:27",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:09:27",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:09:27",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:09:27",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:09:28",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:09:28",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:09:28",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:09:28",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:09:28",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:09:29",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "39 ids"
+    },
+    {
+      "ts": "2026-06-18T21:10:47",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:10:47",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:10:47",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:10:47",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:10:47",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:10:48",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:10:48",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:10:48",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:10:48",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:10:48",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:10:49",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:10:49",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:10:49",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:10:49",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:10:49",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "39 ids"
+    },
+    {
+      "ts": "2026-06-18T21:11:23",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:11:23",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:11:23",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:11:24",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:11:24",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:11:24",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:11:24",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:11:24",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:11:25",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:11:25",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:11:25",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:11:25",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:11:25",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:11:26",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T21:11:26",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "39 ids"
+    },
+    {
+      "ts": "2026-06-18T22:00:37",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:00:37",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:00:38",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:00:38",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:00:38",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:00:38",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:00:39",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:00:39",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:00:39",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:00:39",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:00:40",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:00:40",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:00:40",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:00:40",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:00:41",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "39 ids"
+    },
+    {
+      "ts": "2026-06-18T22:04:20",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:04:21",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:04:21",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:04:21",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:04:21",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:04:22",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:04:22",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:04:22",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:04:22",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:04:22",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:04:23",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:04:23",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:04:23",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:04:23",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "50 ids"
+    },
+    {
+      "ts": "2026-06-18T22:04:24",
+      "call_type": "channels.list",
+      "pages": 1,
+      "cost": 1,
+      "note": "39 ids"
+    },
+    {
+      "ts": "2026-06-18T22:19:03",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "channel=UC9hWb5udOw3D6di5bKeWMYw"
+    },
+    {
+      "ts": "2026-06-18T22:19:04",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "channel=UC9hWb5udOw3D6di5bKeWMYw"
+    },
+    {
+      "ts": "2026-06-18T22:19:05",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "channel=UCaKEqmX7HJGIf75b4VJVGDA"
+    },
+    {
+      "ts": "2026-06-18T22:19:05",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "channel=UCaKEqmX7HJGIf75b4VJVGDA"
+    },
+    {
+      "ts": "2026-06-18T22:19:06",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "channel=UCSpUAJw93VIHVn8k-JP8NTQ"
+    },
+    {
+      "ts": "2026-06-18T22:19:08",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "channel=UCSpUAJw93VIHVn8k-JP8NTQ"
+    },
+    {
+      "ts": "2026-06-18T22:19:08",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "channel=UCSpUAJw93VIHVn8k-JP8NTQ"
+    },
+    {
+      "ts": "2026-06-18T22:19:10",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "channel=UCSpUAJw93VIHVn8k-JP8NTQ"
+    },
+    {
+      "ts": "2026-06-18T22:19:10",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "channel=UCSpUAJw93VIHVn8k-JP8NTQ"
+    },
+    {
+      "ts": "2026-06-18T22:19:11",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "channel=UCSpUAJw93VIHVn8k-JP8NTQ"
+    },
+    {
+      "ts": "2026-06-18T22:19:12",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "channel=UCSpUAJw93VIHVn8k-JP8NTQ"
+    },
+    {
+      "ts": "2026-06-18T22:19:12",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "channel=UCSpUAJw93VIHVn8k-JP8NTQ"
+    },
+    {
+      "ts": "2026-06-18T22:19:13",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "channel=UCSpUAJw93VIHVn8k-JP8NTQ"
+    },
+    {
+      "ts": "2026-06-18T22:19:14",
+      "call_type": "search.list",
+      "pages": 1,
+      "cost": 100,
+      "note": "channel=UCSpUAJw93VIHVn8k-JP8NTQ"
+    }
+  ]
+}
